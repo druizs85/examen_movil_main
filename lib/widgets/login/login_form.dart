@@ -46,8 +46,8 @@ class LoginForm extends StatelessWidget {
             keyboardType: TextInputType.text,
             decoration: InputDecorations.authInputDecoration(
               hinText: '**********',
-              labelText: 'Contraseña',
-              prefixIcon: Icons.lock_outline,
+              labelText: 'Password',
+              prefixIcon: Icons.password_rounded,
             ),
             onChanged: (value) => loginForm.password = value,
             validator: (value) {

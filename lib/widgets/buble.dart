@@ -9,7 +9,7 @@ class Buble extends StatelessWidget {
       height: 100,
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(100),
-        color: Color.fromRGBO(255, 255, 255, 0.15),
+        color: Color.fromRGBO(7, 71, 85, 0.408),
       ),
     );
   }

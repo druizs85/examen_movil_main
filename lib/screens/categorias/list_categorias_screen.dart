@@ -29,7 +29,7 @@ class ListCategoriaScreen extends StatelessWidget {
               Navigator.pop(context);
             },
 
-            icon: const Icon(Icons.logout),
+            icon: const Icon(Icons.logout, color: Colors.white),
           ),
         ],
       ),

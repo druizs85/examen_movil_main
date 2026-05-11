@@ -16,8 +16,8 @@ class Button extends StatelessWidget {
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(10),
           ),
-          disabledColor: Colors.blueGrey,
-          color: Color.fromARGB(255, 27, 155, 160),
+          disabledColor: const Color.fromARGB(255, 18, 60, 85),
+          color: Color.fromARGB(255, 6, 132, 141),
           elevation: 10,
           onPressed: () {
             print('Navegando a -> $pathButton');

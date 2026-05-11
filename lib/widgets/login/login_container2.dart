@@ -23,7 +23,7 @@ class LoginContainer2 extends StatelessWidget {
           Positioned(top: 90, left: 30, child: Buble()),
           Positioned(top: -40, left: -30, child: Buble()),
           Positioned(top: 70, left: -30, child: Buble()),
-          Positioned(top: 85, left: 250, child: Buble()),
+          Positioned(top: 85, left: 300, child: Buble()),
           Positioned(top: -40, left: 350, child: Buble()),
         ],
       ),
